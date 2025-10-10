@@ -10,7 +10,7 @@ A repository for my notes, concepts, and code implementations while studying Dat
 
 ### Topic
 
-- [Hashing](./hashing-algorithms)
+- [Hashing](./01-hashing)
 
 ## License
 Distributed under the GNU GENERAL PUBLIC LICENSE v3.0. See the [LICENSE](./LICENSE) for more information.
