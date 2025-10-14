@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForSubset", "CheckForS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForDisjoint", "CheckForDisjoint\CheckForDisjoint.csproj", "{7142B848-384A-46BA-AB3E-68C987F949A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForDisjointMemoryOptimized", "CheckForDisjointMemoryOptimized\CheckForDisjointMemoryOptimized.csproj", "{8036FF31-FCFB-4F84-BF2B-BAAFD00E1E6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7142B848-384A-46BA-AB3E-68C987F949A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7142B848-384A-46BA-AB3E-68C987F949A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7142B848-384A-46BA-AB3E-68C987F949A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8036FF31-FCFB-4F84-BF2B-BAAFD00E1E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8036FF31-FCFB-4F84-BF2B-BAAFD00E1E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8036FF31-FCFB-4F84-BF2B-BAAFD00E1E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8036FF31-FCFB-4F84-BF2B-BAAFD00E1E6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
