@@ -11,6 +11,7 @@ A repository for my notes, concepts, and code implementations while studying Dat
 ### Topic
 
 - [Hashing](./01-hashing)
+- [Two Pointers](./02-two-pointers)
 
 ## License
 Distributed under the GNU GENERAL PUBLIC LICENSE v3.0. See the [LICENSE](./LICENSE) for more information.
