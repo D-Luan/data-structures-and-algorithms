@@ -1,4 +1,4 @@
-## LeetCode Problems: Hashing
+## LeetCode Problems: Two Pointers
 
 This directory contains my solutions to LeetCode problems that are effectively solved using Two Pointers Technique.
 
